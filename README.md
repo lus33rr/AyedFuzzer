@@ -1,4 +1,8 @@
 # AyedFuzzer
 
-AyedFuzzer is a small Fuzzer with 3 options (File mutating, WinDbg-interactive monitor, multi-processing) for windows executables
-![Uploading AyedFuzzer.png…]()
+AyedFuzzer is a Dumb File Format Fuzzer.
+Founds more than 20+ 0days in both (Adobe, Foxit, Solid, pdftrom)
+
+
+### Author
+@lus33r
